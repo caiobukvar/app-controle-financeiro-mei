@@ -56,18 +56,6 @@ O sistema busca facilitar o acesso de microempreendedores a ferramentas de organ
 
 ---
 
-# 🔮 Melhorias Futuras
-
-- Banco de dados;
-- Login de usuários;
-- Dashboard com gráficos;
-- Exportação PDF/Excel;
-- Controle de impostos MEI;
-- Aplicativo mobile;
-- Integração com APIs financeiras.
-
----
-
 # 📚 Projeto Acadêmico
 
 Projeto desenvolvido como prática extensionista, aplicando conhecimentos de desenvolvimento web para solucionar problemas reais da comunidade através da tecnologia.
